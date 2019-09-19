@@ -1,1 +1,1 @@
-This is our first c repo
+This is our first cs 146 c repo
